@@ -1,0 +1,8 @@
+com.conference.api
+com.conference.api.config
+com.conference.api.controllers
+com.conference.api.dto
+com.conference.api.entities
+com.conference.api.exceptions
+com.conference.api.repositories
+com.conference.api.services

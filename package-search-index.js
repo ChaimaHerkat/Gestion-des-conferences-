@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.conference.api"},{"l":"com.conference.api.config"},{"l":"com.conference.api.controllers"},{"l":"com.conference.api.dto"},{"l":"com.conference.api.entities"},{"l":"com.conference.api.exceptions"},{"l":"com.conference.api.repositories"},{"l":"com.conference.api.services"}];updateSearchResults();
